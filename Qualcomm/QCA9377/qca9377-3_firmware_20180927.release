@@ -1,0 +1,12 @@
+Chip: QCA9377-3
+FW Ver: 0.0.0.23
+Branch: tn-CNSS.LEA.NRT_3.0
+Md5sum:
+11184ab2c204c661b45b04519a1974ea  bdwlan30.bin
+2d7b27d27db072fdc7383e37e76b848f  CadenceLicense.txt
+d595b34fa645448a4715e3efee07661f  Notice.txt
+18a2a06e87454f57815d23a931913b5f  otp30.bin
+8c03e4ba8a87df96c9476659bde26fd3  qwlan30.bin
+326ee2952b86adebf7da967342f7513b  utf30.bin
+7fffc62139cb5ff4bee843f65bce3291  wlan/cfg.dat
+1ac979a2d4f51b76fe9829a3eb1ac3bd  wlan/qcom_cfg.ini
